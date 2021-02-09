@@ -1,0 +1,2 @@
+ImageNumber,ObjectNumber,Metadata_Date,Metadata_FileLocation,Metadata_Frame,Metadata_Plate,Metadata_Project,Metadata_Series,Metadata_Well,Location_Center_X,Location_Center_Y,Location_Center_Z,Number_Object_Number
+1,1,20210129,file:/Users/tim/repos/CP_issues/short_worms/input/20210129-toxin16A-p02-m2X_A09.TIF,0,02,toxin16A,0,A09,1022.0103794076031,1028.5000040307698,0,1
